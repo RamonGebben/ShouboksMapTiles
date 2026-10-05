@@ -1,0 +1,23 @@
+{
+  "name": "shouboksmaptiles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RamonGebben/ShouboksMapTiles.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RamonGebben/ShouboksMapTiles/issues"
+  },
+  "homepage": "https://github.com/RamonGebben/ShouboksMapTiles#readme",
+  "dependencies": {
+    "xml2js": "^0.6.2"
+  }
+}
